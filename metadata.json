@@ -1,0 +1,6 @@
+{
+  "name": "ClassroomHub - ห้องเรียนออนไลน์ มัธยมศึกษา ม.1 - ม.6",
+  "description": "เว็บไซต์การสอนระดับมัธยมศึกษาตอนต้นและมัธยมศึกษาตอนปลาย ศูนย์รวมสไลด์การสอน สื่อการเรียนรู้ และระบบส่งงานการบ้านออนไลน์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
